@@ -1,5 +1,5 @@
 # Hi, I'm Arnold 👨‍💻
-![Arnold Ramon](https://github.com/ArnoldRA/Cursos/blob/master/Curso%20Responsive%20Design/assets/img/Arnold.png)
+![Arnold Ramon](https://github.com/ArnoldRA/ArnoldRA.github.io/blob/master/Arnold.png)
 
 I'm an electronic engineer passionate about the development of Industry 4.0. Some technologies I enjoy working with include Siemens equipment, web technologies, video game development with unity an others. 
 
